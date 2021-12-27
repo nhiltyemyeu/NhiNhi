@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/NhiNhi/app/src/main/res/drawable/duongvien_goctron.xml" value="0.16574074074074074" />
+        <entry key="..\:/NhiNhi/app/src/main/res/drawable/duongvien_goctron1.xml" value="0.1" />
+        <entry key="..\:/NhiNhi/app/src/main/res/drawable/duongvien_goctron5.xml" value="0.16574074074074074" />
+        <entry key="..\:/NhiNhi/app/src/main/res/drawable/projectnotes.xml" value="0.1" />
+        <entry key="..\:/NhiNhi/app/src/main/res/layout/activity_insert.xml" value="0.1" />
+        <entry key="..\:/NhiNhi/app/src/main/res/layout/activity_login.xml" value="0.10371376811594203" />
+        <entry key="..\:/NhiNhi/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/NhiNhi/app/src/main/res/layout/activity_register.xml" value="0.17828418230563003" />
+        <entry key="..\:/NhiNhi/app/src/main/res/layout/activity_update.xml" value="0.11005434782608696" />
+        <entry key="..\:/NhiNhi/app/src/main/res/layout/listview_row.xml" value="0.11005434782608696" />
+        <entry key="..\:/NhiNhi/app/src/main/res/layout/login.xml" value="0.10371376811594203" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/NhiNhi/app/src/main/res/layout/activity_main.xml" value="0.11730072463768115" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/NhiNhi/app/src/main/res/layout/activity_update.xml" value="0.10960144927536232" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/NhiNhi/app/src/main/res/layout/listview_row.xml" value="0.10960144927536232" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

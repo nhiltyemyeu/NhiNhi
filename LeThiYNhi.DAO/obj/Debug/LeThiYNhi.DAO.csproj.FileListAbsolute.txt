@@ -1,0 +1,9 @@
+D:\NhiNhi\LeThiYNhi.DAO\bin\Debug\LeThiYNhi.DAO.dll
+D:\NhiNhi\LeThiYNhi.DAO\bin\Debug\LeThiYNhi.DAO.pdb
+D:\NhiNhi\LeThiYNhi.DAO\bin\Debug\LeThiYNhi.DTO.dll
+D:\NhiNhi\LeThiYNhi.DAO\bin\Debug\LeThiYNhi.DTO.pdb
+D:\NhiNhi\LeThiYNhi.DAO\obj\Debug\LeThiYNhi.DAO.csproj.AssemblyReference.cache
+D:\NhiNhi\LeThiYNhi.DAO\obj\Debug\LeThiYNhi.DAO.csproj.CoreCompileInputs.cache
+D:\NhiNhi\LeThiYNhi.DAO\obj\Debug\LeThiYNhi.DAO.csproj.CopyComplete
+D:\NhiNhi\LeThiYNhi.DAO\obj\Debug\LeThiYNhi.DAO.dll
+D:\NhiNhi\LeThiYNhi.DAO\obj\Debug\LeThiYNhi.DAO.pdb

@@ -1,0 +1,17 @@
+D:\NhiNhi\LeThiYNhi.GUI\bin\Debug\LeThiYNhi.GUI.exe.config
+D:\NhiNhi\LeThiYNhi.GUI\bin\Debug\LeThiYNhi.GUI.exe
+D:\NhiNhi\LeThiYNhi.GUI\bin\Debug\LeThiYNhi.GUI.pdb
+D:\NhiNhi\LeThiYNhi.GUI\bin\Debug\LeThiYNhi.BLL.dll
+D:\NhiNhi\LeThiYNhi.GUI\bin\Debug\LeThiYNhi.DTO.dll
+D:\NhiNhi\LeThiYNhi.GUI\bin\Debug\LeThiYNhi.DAO.dll
+D:\NhiNhi\LeThiYNhi.GUI\bin\Debug\LeThiYNhi.BLL.pdb
+D:\NhiNhi\LeThiYNhi.GUI\bin\Debug\LeThiYNhi.DTO.pdb
+D:\NhiNhi\LeThiYNhi.GUI\bin\Debug\LeThiYNhi.DAO.pdb
+D:\NhiNhi\LeThiYNhi.GUI\obj\Debug\LeThiYNhi.GUI.csproj.AssemblyReference.cache
+D:\NhiNhi\LeThiYNhi.GUI\obj\Debug\LeThiYNhi.GUI.Form1.resources
+D:\NhiNhi\LeThiYNhi.GUI\obj\Debug\LeThiYNhi.GUI.Properties.Resources.resources
+D:\NhiNhi\LeThiYNhi.GUI\obj\Debug\LeThiYNhi.GUI.csproj.GenerateResource.cache
+D:\NhiNhi\LeThiYNhi.GUI\obj\Debug\LeThiYNhi.GUI.csproj.CoreCompileInputs.cache
+D:\NhiNhi\LeThiYNhi.GUI\obj\Debug\LeThiYNhi.GUI.csproj.CopyComplete
+D:\NhiNhi\LeThiYNhi.GUI\obj\Debug\LeThiYNhi.GUI.exe
+D:\NhiNhi\LeThiYNhi.GUI\obj\Debug\LeThiYNhi.GUI.pdb

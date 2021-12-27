@@ -1,0 +1,11 @@
+D:\NhiNhi\LeThiYNhi.BLL\bin\Debug\LeThiYNhi.BLL.dll
+D:\NhiNhi\LeThiYNhi.BLL\bin\Debug\LeThiYNhi.BLL.pdb
+D:\NhiNhi\LeThiYNhi.BLL\bin\Debug\LeThiYNhi.DAO.dll
+D:\NhiNhi\LeThiYNhi.BLL\bin\Debug\LeThiYNhi.DTO.dll
+D:\NhiNhi\LeThiYNhi.BLL\bin\Debug\LeThiYNhi.DAO.pdb
+D:\NhiNhi\LeThiYNhi.BLL\bin\Debug\LeThiYNhi.DTO.pdb
+D:\NhiNhi\LeThiYNhi.BLL\obj\Debug\LeThiYNhi.BLL.csproj.AssemblyReference.cache
+D:\NhiNhi\LeThiYNhi.BLL\obj\Debug\LeThiYNhi.BLL.csproj.CoreCompileInputs.cache
+D:\NhiNhi\LeThiYNhi.BLL\obj\Debug\LeThiYNhi.BLL.csproj.CopyComplete
+D:\NhiNhi\LeThiYNhi.BLL\obj\Debug\LeThiYNhi.BLL.dll
+D:\NhiNhi\LeThiYNhi.BLL\obj\Debug\LeThiYNhi.BLL.pdb

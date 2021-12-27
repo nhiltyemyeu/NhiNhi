@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NhiNhi</string>
+    <string name="username" />
+    <string name="email" />
+    <string name="password" />
+    <string name="register" />
+    <string name="back_to_login" />
+</resources>

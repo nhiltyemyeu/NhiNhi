@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".InsertActivity">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/hi2">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Thêm dữ liệu"
+            android:textStyle="bold"
+            android:textSize="25dp"
+            android:textColor="#FF0900"
+            android:id="@+id/form"></TextView>
+
+        <ImageView
+            android:id="@+id/imgHinhDaiDien"
+            android:layout_width="120dp"
+            android:layout_height="160dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            app:srcCompat="@mipmap/ic_launcher" />
+
+        <ImageButton
+            android:id="@+id/imageButton1"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:src="@drawable/icon"
+            tools:layout_editor_absoluteX="36dp"
+            tools:layout_editor_absoluteY="369dp" />
+
+    </LinearLayout>
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_below="@+id/hi2">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nhập mã sinh viên:"
+        android:textSize="20dp"
+        android:id="@+id/id"></TextView>
+    <EditText
+        android:id="@+id/edtid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:ems="10"
+        android:layout_below="@+id/id"
+        android:inputType="textPersonName"
+        android:hint="id" />
+    <TextView
+        android:layout_below="@+id/edtid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nhập tên sinh viên:"
+        android:textSize="20dp"
+        android:id="@+id/tensv"></TextView>
+    <EditText
+        android:id="@+id/edtTen"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:ems="10"
+        android:layout_below="@+id/tensv"
+        android:inputType="textPersonName"
+        android:hint="Tên SV" />
+    <TextView
+        android:layout_below="@+id/edtTen"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nhập năm sinh:"
+        android:textSize="20dp"
+        android:id="@+id/old"></TextView>
+    <EditText
+        android:id="@+id/edtOld"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:ems="10"
+        android:layout_below="@+id/old"
+        android:inputType="textPersonName"
+        android:hint="Tên SV" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nhập số điện thoại:"
+        android:textSize="20dp"
+        android:id="@+id/sdtttt"
+        android:layout_below="@+id/edtOld"></TextView>
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="phone"
+        android:ems="10"
+        android:layout_below="@+id/sdtttt"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/edtSdt"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:hint="Điện thoại"
+        />
+    <Button
+        android:text="Hủy"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnHuy"
+        android:layout_below="@+id/edtSdt" />
+    <Button
+        android:text="Thêm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/edtSdt"
+        android:layout_toRightOf="@+id/btnHuy"
+        android:id="@+id/btnThem" />
+</RelativeLayout>
+</RelativeLayout>
